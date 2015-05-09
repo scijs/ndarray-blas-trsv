@@ -1,0 +1,37 @@
+{
+  "name": "ndarray-blas-trsv",
+  "version": "1.0.0",
+  "description": "BLAS Level 2 TRSV (triangular solve) for ndarrays",
+  "main": "index.js",
+  "author": "Ricky Reusser",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scijs/ndarray-blas-trsv.git"
+  },
+  "scripts": {
+    "test": "mocha",
+    "lint": "jshint **.js"
+  },
+  "keywords": [
+    "blas",
+    "ndarray",
+    "scijs",
+    "linearalgebra"
+  ],
+  "devDependencies": {
+    "chai": "*",
+    "jshint": "*",
+    "mocha": "*",
+    "ndarray": "^1.0.16",
+    "ndarray-tests": "^1.1.2"
+  },
+  "dependencies": {
+    "ndarray-blas-level1": "^1.0.1"
+  },
+  "browserify": {
+    "transform": [
+      "cwise"
+    ]
+  }
+}
