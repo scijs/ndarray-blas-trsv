@@ -11,3 +11,4 @@ Calculate `x <- A^-1 x` for the upper triangular matrix A using back-substitutio
 
 ## Credits
 (c) 2015 Ricky Reusser. MIT License
+
