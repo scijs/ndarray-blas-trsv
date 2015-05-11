@@ -1,6 +1,6 @@
 # ndarray-blas-trsv
 
-[![Build Status](https://travis-ci.org/scijs/ndarray-blas-trsv.svg?branch=master)](https://travis-ci.org/scijs/ndarray-blas-trsv) [![npm version](https://badge.fury.io/js/ndarray-blas-trsv.svg)](http://badge.fury.io/js/ndarray-blas-trsv)
+[![Build Status](https://travis-ci.org/scijs/ndarray-blas-trsv.svg?branch=master)](https://travis-ci.org/scijs/ndarray-blas-trsv) [![npm version](https://badge.fury.io/js/ndarray-blas-trsv.svg)](http://badge.fury.io/js/ndarray-blas-trsv) [![Dependency Status](https://david-dm.org/scijs/ndarray-blas-trsv.svg)](https://david-dm.org/scijs/ndarray-blas-trsv)
 
 BLAS Level 2 TRSV (triangular solve) for [ndarrays](https://github.com/scijs/ndarray)
 
